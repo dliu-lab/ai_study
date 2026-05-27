@@ -1,5 +1,7 @@
 # MEMO: Full Paper Analysis
 
+Paper PDF: [https://arxiv.org/pdf/2605.15156](https://arxiv.org/pdf/2605.15156)
+
 ## 1. What Problem Is the Paper Solving?
 
 Large language models become stale after pretraining. They may not know new facts, private company data, newly published documents, or domain-specific corpora. The standard ways to add knowledge all have problems:
@@ -203,4 +205,3 @@ to data synthesis quality at training time.
 ```
 
 That shift can be good when the corpus is stable and heavily used. It can be bad when the corpus changes frequently or correctness needs direct source verification.
-

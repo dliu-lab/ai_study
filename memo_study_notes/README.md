@@ -2,6 +2,8 @@
 
 Source paper: `/Users/dliu520/Downloads/Memo——2605.15156v2.pdf`
 
+Paper PDF: [https://arxiv.org/pdf/2605.15156](https://arxiv.org/pdf/2605.15156)
+
 Supplementary video: [MEMO: Memory as a Model (May 2026)](https://www.youtube.com/watch?v=CwH8K6fWtgg) by AI Paper Slop, uploaded May 20, 2026.
 
 Paper: **MEMO: Memory as a Model**  
